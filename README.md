@@ -1,12 +1,8 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# Alex Rapp
+## lab 05
+## 10/08/2024
 ## Worked with/sources 
-* example
-* example
-* example
-* example
+* worked with Dyllan Gates
+* Lecture notes
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
+* nested for loop, but it works
