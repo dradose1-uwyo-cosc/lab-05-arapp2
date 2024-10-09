@@ -104,7 +104,8 @@ for temp in max_temps:
             x=temp
         elif temp < y:
              y=temp
-# What would the time complexity of this be in terms of Big O notation?
+
+# I find this funny
 
 
 print(f"Max temp = {x}")
@@ -135,7 +136,7 @@ for num in numbers:
     
 print(f'There are {pos} positive numbers')
 print(f'There are {neg} negative numbers')
-if zero <= 1:
+if zero == 1:
     print(f"Zero occurred {zero} time")
 else:
     print(f"Zero occurred {zero} times")
